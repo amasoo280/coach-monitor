@@ -1,0 +1,13 @@
+{
+  "name": "coach-restock-monitor",
+  "version": "1.0.0",
+  "description": "Coach Outlet restock monitor with Discord webhook alerts",
+  "main": "monitor.js",
+  "scripts": {
+    "start": "node monitor.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.7.0",
+    "cheerio": "^1.0.0"
+  }
+}
