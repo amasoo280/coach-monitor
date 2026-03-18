@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Coach Outlet restock monitor with Discord webhook alerts",
   "main": "monitor.js",
+  "engines": {
+    "node": ">=20.18.1"
+  },
   "scripts": {
     "start": "node monitor.js"
   },
